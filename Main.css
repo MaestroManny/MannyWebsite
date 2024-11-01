@@ -1,5 +1,19 @@
 
 
+@import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&display=swap');
+
+
 .BungoP1{
-    color:blue;
+    color:#cfbc8c;
+    font-family: "Monsieur La Doulaise", cursive;
+    font-size: 37px;
+}
+.BDSPICS{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    align-content: center;
+
+
 }
